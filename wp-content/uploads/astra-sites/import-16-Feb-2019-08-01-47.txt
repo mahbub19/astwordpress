@@ -1,0 +1,51 @@
+
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: Apache/2.4.37 (Win64) PHP/7.2.14
+MySQL version 		: 5.7.24
+XML Reader 		: Yes
+PHP Version 		: 7.2.14
+PHP Max Input Vars 	: 2500
+PHP Max Post Size 	: 8M
+PHP Extension GD 	: Yes
+PHP Max Execution Time 	: 120
+Max Upload Size 	: 2 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 08:27:04 UTC
+---
+
+WHY IMPORT PROCESS CAN FAIL? READ THIS - 
+https://wpastra.com/docs/?p=1314&utm_source=demo-import-panel&utm_campaign=import-error&utm_medium=wp-dashboard
+
+---
+
+
+1. Imported "Customizer Settings"  - 08:27:05 UTC
+
+---
+
+2. Importing "XML"  - 08:27:05 UTC
+
+---
+
+3. Imported "Site Options"  - 08:27:07 UTC
+
+---
+
+4. Importing "Widgets"  - 08:27:07 UTC
+Sidebar: sidebar-1
+Widget: "Search" - Widget already exists
+Widget: "Recent Posts" - Widget already exists
+Widget: "Recent Comments" - Widget already exists
+Widget: "Archives" - Widget already exists
+Widget: "Categories" - Widget already exists
+Widget: "Meta" - Widget already exists
+
+---
+
+Import Complete!  - 08:27:07 UTC
